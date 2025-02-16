@@ -1,0 +1,50 @@
+ID,Username,Followers,Posts,Bio Keywords,Sentiment,Reported,Legit/Deceptive
+12345,john_smith,500,25.0,Personal blog,Neutral,No,Legit
+67890,deals4u_now,50,2.0,Free gift cards,Promotional,Yes,Deceptive
+11223,abc_def_xyz,1000,0.0,Follow for prizes,Promotional,No,Deceptive
+44556,emily_art_love,2000,100.0,"Artist, open for collab",Positive,No,Legit
+28125,rida.tharanaa,30000,2398.0,I mean! I could shut uo but I just don't want to cry,Promotional,No,Legit
+12563,infinity._.vibez,349,906.0,King of my own castle,Positive,yes,Deceptive
+45890,tottomin,400,1940.0,Personal blog,Neutral,No,Legit
+46903,fitshaikh21,451,2343.66666666667,Free gift cards,Promotional,Yes,Deceptive
+47916,kkira.nn,502,2746.0,Follow for prizes,Promotional,No,Deceptive
+48929,a.n.u_5011,553,3149.0,"Artist, open for collab",Positive,No,Legit
+49942,peachieyandere,604,3552.66666666667,I mean! I could shut uo but I just don't want to cry,Promotional,No,Legit
+50955,7q.weee,655,3955.0,King of my own castle,Positive,yes,Deceptive
+51968,monika_mahat0,706,435.0,Personal blog,Neutral,No,Legit
+52981,tingting_laianimelife982,757,4761.66666666667,Free gift cards,Promotional,Yes,Deceptive
+53994,yuvsenpal,808,5164.0,Follow for prizes,Promotional,No,Deceptive
+55007,swapangain02,859,5567.0,"Artist, open for collab",Positive,No,Legit
+56020,bodie.neme,910,5970.66666666667,I mean! I could shut uo but I just don't want to cry,Promotional,No,Legit
+57033,jasminandjames,961,6373.0,King of my own castle,Positive,yes,Deceptive
+58046,kevinelsudha_13,1012,6776.0,Personal blog,Neutral,No,Legit
+59059,crazy_core,1063,7179.66666666667,Free gift cards,Promotional,Yes,Deceptive
+60072,anime_society,1114,758.0,Follow for prizes,Promotional,No,Deceptive
+61085,zairay_zabelle,1165,7985.0,"Artist, open for collab",Positive,No,Legit
+62098,mainly_pariza,1216,8388.66666666667,I mean! I could shut uo but I just don't want to cry,Promotional,No,Legit
+63111,antonia_sizca,1267,400.0,King of my own castle,Positive,yes,Deceptive
+64124,"_,sreya._.",1318,500.0,Personal blog,Neutral,No,Legit
+65137,thedrama_boy,1369,600.0,Free gift cards,Promotional,Yes,Deceptive
+66150,teablue_,1420,700.0,Follow for prizes,Promotional,No,Deceptive
+67163,infinity._.vibez,1471,800.0,"Artist, open for collab",Positive,No,Legit
+68176,tottomin,1522,900.0,I mean! I could shut uo but I just don't want to cry,Promotional,No,Legit
+69189,fitshaikh21,1573,1000.0,King of my own castle,Positive,yes,Deceptive
+70202,kkira.nn,1624,1100.0,Personal blog,Neutral,No,Legit
+71215,a.n.u_5011,1675,1200.0,Free gift cards,Promotional,Yes,Deceptive
+72228,peachieyandere,1726,1300.0,Follow for prizes,Promotional,No,Deceptive
+73241,dccc__bci,1777,1400.0,"Artist, open for collab",Positive,No,Legit
+74254,increadilaeee,1828,1500.0,I mean! I could shut uo but I just don't want to cry,Promotional,No,Legit
+75267,smilyyy_..,1879,1600.0,King of my own castle,Positive,yes,Deceptive
+76280,doggy_:),1930,1700.0,Personal blog,Neutral,No,Legit
+77293,peach_vibe,1981,1800.0,Free gift cards,Promotional,Yes,Deceptive
+78306,ram_sita,2032,1900.0,Follow for prizes,Promotional,No,Deceptive
+79319,dhanu_luv,2083,2000.0,"Artist, open for collab",Positive,No,Legit
+80332,chinna_reddy,2134,2100.0,I mean! I could shut uo but I just don't want to cry,Promotional,No,Legit
+81345,abhiii_rao,2185,2200.0,King of my own castle,Positive,yes,Deceptive
+82358,ac_crazy,2236,2300.0,Personal blog,Neutral,No,Legit
+83371,infinity._.vibez,2287,2400.0,Free gift cards,Promotional,Yes,Deceptive
+84384,tottomin,2338,2500.0,Follow for prizes,Promotional,No,Deceptive
+85397,fitshaikh21,2389,2600.0,"Artist, open for collab",Positive,No,Legit
+86410,kkira.nn,2440,2700.0,I mean! I could shut uo but I just don't want to cry,Promotional,No,Legit
+87423,a.n.u_5011,2491,2800.0,King of my own castle,Positive,yes,Deceptive
+88436,peachieyandere,2542,2900.0,Personal blog,Neutral,No,Legit

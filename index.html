@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deceptive or Legit? Prediction</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <h1>Deceptive Content Detection </h1>
+            <p>Enter details to check if the profile is Deceptive or Legit!</p>
+            <form id="prediction-form">
+                <input type="text" id="username" name="username" placeholder="Enter Username" required>
+                <input type="number" id="followers" name="followers" placeholder="Followers" required>
+                <input type="number" id="posts" name="posts" placeholder="Posts" required>
+                
+                <select id="sentiment" name="sentiment" required>
+                    <option value="">Select Sentiment</option>
+                    <option value="Positive">Positive</option>
+                    <option value="Neutral">Neutral</option>
+                    <option value="Negative">Negative</option>
+                </select>
+                <select id="reported" name="reported" required>
+                    <option value="">Reported?</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+                <button type="submit" class="btn">Predict</button>
+            </form>
+            <div id="result" class="result"></div>
+            
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
